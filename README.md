@@ -1,10 +1,6 @@
 ## Hello, I'm Afonso
 
-
-My bonsai :) 
-
-
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+<img src="output/bonsai-growth.gif" width="150" alt="my git-bonsai" />
 
 <!--
 **AfonsoGinjeira/AfonsoGinjeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
